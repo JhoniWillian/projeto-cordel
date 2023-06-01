@@ -92,6 +92,10 @@ section#img02 {
     background-image: url(imagens/background002.jpg);
 }
 
+section#shadow-host-companion {
+    padding: 0px;
+}
+
 footer {
     background-color: rgba(0, 0, 0, 0.822);
     text-align: center;
